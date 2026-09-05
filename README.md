@@ -5,7 +5,6 @@ Este videojuego es un proyecto grupal que hicimos en un curso de especializació
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1>Paws And Peril</h1>
 <h2>Class Group Project</h2>
 
 This videogame is a group project we created during a videogame specialization course, involving two programmers and two 3D designers. It is a first-person shooter featuring various actions such as moving, jumping, running, sneaking, use stamina, and of course, shooting. Due to the limited development time, the game consists solely of a tutorial.
