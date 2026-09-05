@@ -1,13 +1,13 @@
 <h1>Paws And Peril</h1>
 <h2>Proyecto en Grupo de Clase</h2>
 
-Este videojuego es un proyecto grupal que hicimos en un curso de especialización de videojuegos, en el cual éramos dos programadores y dos diseñadores 3D. El juego es un shooter en primera persona de estética dulce, donde tienes varias acciones tales como moverte, saltar, correr, ir en sigilo, gastar estamina, y por supuesto, disparar. Como no se tuvo mucho tiempo para el desarrollo, el juego solo es un tutorial.
+Este videojuego es un proyecto grupal que hicimos en un curso de especialización de videojuegos usando Unity C#, en el cual éramos dos programadores y dos diseñadores 3D. El juego es un shooter en primera persona de estética dulce, donde tienes varias acciones tales como moverte, saltar, correr, ir en sigilo, gastar estamina, y por supuesto, disparar. Como no se tuvo mucho tiempo para el desarrollo, el juego solo es un tutorial.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>Class Group Project</h2>
 
-This videogame is a group project we created during a videogame specialization course, involving two programmers and two 3D designers. It is a first-person shooter featuring various actions such as moving, jumping, running, sneaking, use stamina, and of course, shooting. Due to the limited development time, the game consists solely of a tutorial.
+This videogame is a group project we created during a videogame specialization course using Unity C#, involving two programmers and two 3D designers. It is a first-person shooter featuring various actions such as moving, jumping, running, sneaking, use stamina, and of course, shooting. Due to the limited development time, the game consists solely of a tutorial.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
